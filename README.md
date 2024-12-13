@@ -1,4 +1,4 @@
-# SAE12-SE-PRESENTER-SUR-INTERNET
+# SAE14-SE-PRESENTER-SUR-INTERNET
 
 Ce document décrit les étapes de construction et les fonctionnalités principales du site web, ainsi que les choix techniques effectués pour chaque section.
 
@@ -6,11 +6,11 @@ Ce document décrit les étapes de construction et les fonctionnalités principa
 
 Structure :
 
-Une balise <nav> contenant l'ensemble du menu.
+Une balise nav contenant l'ensemble du menu.
 
-Une balise <a> affichant le nom complet, positionné en haut à gauche comme un logo.
+Une balise a affichant le nom complet, positionné en haut à gauche comme un logo.
 
-Une <div> avec une liste non ordonnée <ul> servant de menu.
+Une div avec une liste non ordonnée ul servant de menu.
 
 Un drapeau ajouté pour basculer entre deux versions linguistiques du site.
 
@@ -18,11 +18,11 @@ Un drapeau ajouté pour basculer entre deux versions linguistiques du site.
 
 Section Bannière :
 
-Une balise <p> pour un texte introductif.
+Une balise p pour un texte introductif.
 
-Une balise <h1> pour le titre principal.
+Une balise h1 pour le titre principal.
 
-Une seconde balise <p> pour un texte de présentation.
+Une seconde balise p pour un texte de présentation.
 
 Une image positionnée à gauche, laissant les textes à droite pour un meilleur agencement visuel.
 
@@ -34,9 +34,9 @@ Un pour accéder au diaporama (intégré avec Bootstrap).
 
 Div Identité :
 
-Deux balises <p> pour afficher le nom, le numéro de téléphone et des informations d’identité.
+Deux balises p pour afficher le nom, le numéro de téléphone et des informations d’identité.
 
-Une balise <a> contenant l’adresse mail avec un attribut mailto: pour permettre d'envoyer un email directement en cliquant.
+Une balise a contenant l’adresse mail avec un attribut mailto: pour permettre d'envoyer un email directement en cliquant.
 
 Étape 3 : Section Compétences
 
@@ -54,7 +54,7 @@ Un titre suivi de deux paragraphes descriptifs.
 
 Intégration d'une vidéo YouTube.
 
-Un petit texte supplémentaire inséré dans une balise <p>.
+Un petit texte supplémentaire inséré dans une balise p.
 
 Un lien vers Adobe Acrobat Reader inséré via une image.
 
@@ -76,4 +76,4 @@ Intégration de supports multimédias (vidéos, images, fichiers à télécharge
 
 Design adapté pour une disposition visuelle optimale.
 
-Pour toute question ou suggestion, n’hésitez pas à contacter l’auteur via l'adresse email disponible sur le site.
+Pour toute question ou suggestion, n’hésitez pas à contacter l’auteur via l'adresse email disponible sur le site
